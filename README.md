@@ -100,7 +100,7 @@ A key advantage of this project is the interpretability of its final model. The 
 
 This transparency allows medical professionals to audit and understand the model's logic, building trust and facilitating its integration into clinical workflows, unlike "black-box" models where the reasoning is hidden.
 
-![Optimized Decision Tree](https://github.com/laurentinobezerra/cdt-model/blob/main/results/optimized-decision-tree.jpg)
+![Optimized Decision Tree](https://github.com/laurentinobezerra/cdt-model/blob/main/results/optimized-decision-tree.png)
 
 ## Running the Project
 
